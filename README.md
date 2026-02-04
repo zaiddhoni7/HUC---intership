@@ -53,7 +53,7 @@ Helps companies manage large software projects easily.
 **GIT Clone**-Download repository to your computer.
 Push-Upload code to GitHub.
 
-**Pull**-Download latest code from GitHub.
+**GIT Pull**-Download latest code from GitHub.
 Pull Request-Request team to merge your code into main project.
 
 **Effectiveness of GitHub in Team Collaboration :**
